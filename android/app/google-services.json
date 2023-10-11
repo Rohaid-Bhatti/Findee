@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69384953231",
+    "project_id": "findee-d3e9d",
+    "storage_bucket": "findee-d3e9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69384953231:android:2a76d3e2d347302f877ffa",
+        "android_client_info": {
+          "package_name": "com.example.findee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69384953231-ca1h5ci0rg3c0d2tr743e2qggd8n54jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findee",
+            "certificate_hash": "e89d017a4622ffcb66885a5fafab82ca0b59213c"
+          }
+        },
+        {
+          "client_id": "69384953231-l07rp7rfhrn3a215p28fep2ucoc5u2nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByDGzaN3HxaYMge1OnD74rPs-dqxOEqEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69384953231-l07rp7rfhrn3a215p28fep2ucoc5u2nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
