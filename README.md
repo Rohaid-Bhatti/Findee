@@ -41,11 +41,6 @@ Findee is a Flutter-based mobile application designed to help users post ads for
 - The admin panel allows for category management and monitoring of ads.
 - Push notifications are sent to users for ad updates.
 
-## Screenshots
-
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
